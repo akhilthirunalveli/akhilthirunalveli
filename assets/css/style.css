@@ -1144,7 +1144,7 @@ section {
 }
 
 body::-webkit-scrollbar {
-  width: 12px;               /* width of the entire scrollbar */
+  width: 10px;               /* width of the entire scrollbar */
 }
 
 body::-webkit-scrollbar-track {
@@ -1152,7 +1152,6 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: black;    /* color of the scroll thumb */
+  background-color: DBC7BA;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
-  border: 3px solid orange;  /* creates padding around scroll thumb */
 }
