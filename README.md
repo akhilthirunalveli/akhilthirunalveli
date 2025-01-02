@@ -17,3 +17,5 @@
 </div>
 
 ![Photo](Readme_assets/Personal_Information.png)
+
+<br>
