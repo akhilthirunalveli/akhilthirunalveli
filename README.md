@@ -1,5 +1,8 @@
 ![GIF](Readme_assets/Github.gif)
 
+![Photo](Readme_assets/Personal_Information.png)
+
+
 <p align="center" style="line-height:0;">
 
   <a href="https://leetcode.com/u/akhilthirunalveli/" target="_blank" style="text-decoration:none;">
@@ -36,5 +39,4 @@
 
 </p>
 
-![Photo](Readme_assets/Personal_Information.png)
 <br>
