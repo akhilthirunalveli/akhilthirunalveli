@@ -1,12 +1,6 @@
 ![GIF](Readme_assets/Github.gif)
 
-<p align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/akhilthirunalveli/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-DSA%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhilthirunalveli/)
-
-</p>
+<div align="Center"> <a href="https://leetcode.com/u/akhilthirunalveli/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode" /> </a> <a href="https://www.geeksforgeeks.org/" target="_blank"> <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Geeksforgeeks" /> </a> <a href="https://www.linkedin.com/in/akhilthirunalveli/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin" /> </a> <a href="https://www.instagram.com/akkhil05/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /> </a> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"> </div>
 
 ![Photo](Readme_assets/Personal_Information.png)
 <br>
