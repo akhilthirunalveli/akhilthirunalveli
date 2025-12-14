@@ -3,7 +3,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/akhilthirunalveli/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-DSA%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhilthirunalveli/)
-[![Instagram](https://img.shields.io/badge/Instagram-Life%20Beyond%20Code-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/akkhil05/)
 
 ![Photo](Readme_assets/Personal_Information.png)
 <br>
