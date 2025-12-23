@@ -2,41 +2,10 @@
 
 ![Photo](Readme_assets/Personal_Information.png)
 
-
-<p align="center" style="line-height:0;">
-
-  <a href="https://leetcode.com/u/akhilthirunalveli/" target="_blank" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow"
-      alt="LeetCode"
-      style="display:block;"
-    />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/" target="_blank" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="GeeksForGeeks"
-      style="display:block;"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/akhilthirunalveli/" target="_blank" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      style="display:block;"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/akkhil05/" target="_blank" style="text-decoration:none;">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-      style="display:block;"
-    />
-  </a>
-
+<p align="center">
+<a href="https://twitter.com/archivebyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archivebyakhil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhilthirunalveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilthirunalveli" height="30" width="40" /></a>
+<a href="https://instagram.com/akkhil05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkhil05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akhilthirunalveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhilthirunalveli" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akhilthirunalveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akhilthirunalveli" height="30" width="40" /></a>
 </p>
-
-<br>
