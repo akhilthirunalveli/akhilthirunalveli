@@ -1,6 +1,6 @@
 ![GIF](Readme_assets/Github.gif)
 
-![Photo](Readme_assets/Personal_Information.png)
+![Photo](Readme_assets/MyPersonal_Information.png)
 
 <p align="center">
 <a href="https://twitter.com/archivebyakhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archivebyakhil" height="30" width="40" /></a>
